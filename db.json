@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post de ejemplo 1",
+      "author": "Autor 1",
+      "email": "autor1@example.com",
+      "body": "Este es el cuerpo del post de ejemplo 1."
+    },
+    {
+      "id": "2",
+      "title": "Post de ejemplo 2",
+      "author": "Autor 2",
+      "email": "autor2@example.com",
+      "body": "Este es el cuerpo del post de ejemplo 2."
+    },
+    {
+      "id": "cf77",
+      "title": "aa",
+      "author": "aa",
+      "email": "manuelskoppe@gmail.com",
+      "body": "aaa"
+    },
+    {
+      "id": "b851",
+      "title": "aa",
+      "author": "aa",
+      "email": "manuelskoppe@gmail.com",
+      "body": "aaa"
+    },
+    {
+      "id": "80f7",
+      "title": "aa",
+      "author": "aa",
+      "email": "manuelskoppe@gmail.com",
+      "body": "aaa"
+    },
+    {
+      "id": "96a4",
+      "title": "aa",
+      "author": "aa",
+      "email": "manuelskoppe@gmail.com",
+      "body": "aaa"
+    },
+    {
+      "id": "c468",
+      "title": "aa",
+      "author": "aa",
+      "email": "manuelskoppe@gmail.com",
+      "body": "aaa"
+    }
+  ]
+}
